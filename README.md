@@ -289,10 +289,10 @@ $ git --version
 git version 2.21.0
 ```
 
-Tell Git about your signing key:
+Tell Git about your signing subkey:
 
 ```sh-session
-# git config --global user.signingkey <your-signing-key-id>
+# git config --global user.signingkey <your-signing-subkey-id>
 $ git config --global user.signingkey 25ECC6B94882C6E3
 ```
 
